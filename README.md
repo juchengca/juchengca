@@ -1,7 +1,10 @@
 Hello! 
 
-I am a full stack software engineering with experience in Javascript, React, Node.js, PostgreSQL & more. 
+I am a full stack software engineer with an affinity for both the technical and the creative side of modern day problem solving. With seven years of experience as an engineer of various disciplines, I have developed a profound understanding of engineering principles and the ingenuity that is required for innovation. Whether I'm diving deep into code or exploring creative problem-solving, I'm driven by the desire to create meaningful and impactful experiences. 
 
+In my free time you can find me delving deeper into both my artistic and technical sides as I am usually either writing/producing music or wrenching on a project car.
+
+Would love to connect and discuss any opportunities we could pursue together!
 Feel free to contact me at: jucheng.ca@gmail.com
 
 <!--
