@@ -7,6 +7,8 @@ In my free time you can find me delving deeper into both my artistic and technic
 Would love to connect and discuss any opportunities we could pursue together!
 Feel free to contact me at: jucheng.ca@gmail.com
 
+Technical skills: JavaScript, React, HTML5, CSS, Tailwind CSS, JQuery, Node.js, Nest.js, Express, PostgreSQL, MongoDB, MySQL, RESTful API, Jest, CI/CD
+
 <!--
 **juchengca/juchengca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
