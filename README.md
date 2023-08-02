@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello! 
+
+I am a full stack software engineering with experience in Javascript, React, Node.js, PostgreSQL & more. 
+
+Feel free to contact me at: jucheng.ca@gmail.com
 
 <!--
 **juchengca/juchengca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
